@@ -1,3 +1,3 @@
 def Post
-  attr_accessor :title
+  attr_accessor :post
 end
