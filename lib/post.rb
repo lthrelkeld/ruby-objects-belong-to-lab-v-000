@@ -1,7 +1,7 @@
 def Post
-  attr_accessor :post
+  attr_accessor :title
 
   def initialize(post)
-    @post = post
+    @title = post
   end
 end
